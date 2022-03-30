@@ -5,7 +5,6 @@ execution:
   scenario: Choose Flight
 scenarios:
   Choose Flight:
-  
     requests:
      - label: blazedemo
       method: GET
