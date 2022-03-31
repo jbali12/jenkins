@@ -4,8 +4,7 @@ execution:
   ramp-up: 2m
   scenario: Choose Flight
 scenarios:
-
-  Choose Flight:
+Choose Flight:
     requests:
      - label: blazedemo
       method: GET
